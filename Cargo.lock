@@ -184,6 +184,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "lea"
+version = "0.1.0-rc.0"
+dependencies = [
+ "cipher",
+ "hex-literal",
+]
+
+[[package]]
 name = "libc"
 version = "0.2.175"
 source = "registry+https://github.com/rust-lang/crates.io-index"
